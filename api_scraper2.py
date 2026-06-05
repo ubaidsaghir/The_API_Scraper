@@ -48,7 +48,7 @@ df_top20["timestamp"] = datetime.now()
 df_top20.fillna("NA", inplace=True)
 
 
-filename = "project2.csv"
+filename = "api_scrper2.csv"
 df_top20.to_csv(filename, index=False)
 
 print(df_top20)
