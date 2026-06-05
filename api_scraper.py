@@ -43,7 +43,7 @@ df["timestamp"] = datetime.now()
 
 print(df.head(20))
 
-filename = "api_scraper.csv"
+filename = "crypto_data.csv"
 df.to_csv(filename, index=False)
 
 print("File saved:", filename)
