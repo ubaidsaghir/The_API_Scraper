@@ -298,10 +298,7 @@ This project demonstrates:
 
 ---
 
-## 👨‍💻 Author
+## 🌐 Author
 
-**Ubaid Saghir**
+[![GitHub](https://img.shields.io/badge/GitHub-ubaidsaghir-181717?logo=github&logoColor=white)](https://github.com/ubaidsaghir)
 
-**Data Engineer**
-
-Python | SQL | Snowflake | Databricks | Apache Spark | Azure | AWS | Power BI
